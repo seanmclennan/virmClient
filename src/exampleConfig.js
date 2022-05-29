@@ -1,5 +1,0 @@
-{
-    token = ""
-}
-
-module.exports = token
