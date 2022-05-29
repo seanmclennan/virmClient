@@ -1,0 +1,5 @@
+{
+    token = ""
+}
+
+module.exports = token
